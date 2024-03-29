@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "267733915135",
+    "project_id": "vize-030720002",
+    "storage_bucket": "vize-030720002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267733915135:android:3ad3d176930c63b35ec3ca",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267733915135-mm9njdno3j2m4bf6opl1oqvuteu31lkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNOZosIf_X_jYEKghqWAKMYmEQYEuKCSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267733915135-iilrvff9blee9pgmm2vtuntbveguajpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267733915135-kukg99kpmhbkb58if30lml18rn4489m3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gtkFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
